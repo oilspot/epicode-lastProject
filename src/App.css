@@ -1,0 +1,21 @@
+.logo {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/header.webp);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: bottom;
+  padding: 20vh;
+}
+
+.logo h1, .logo h3 {
+  color: white;
+  font-weight: bold;
+}
+
+.logo h1 {
+  font-size: 5rem;
+}
+
+.logo h3 {
+  font-style: italic;
+}
